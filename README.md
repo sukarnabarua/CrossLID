@@ -4,5 +4,3 @@ Test code for the paper "Quality Evaluation of GANs Using Cross Local Intrinsic 
 (https://arxiv.org/abs/1905.00643)
 
 Requires Keras and Tensorflow Libraries
-
-More codes will be uploaded soon
